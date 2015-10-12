@@ -74,7 +74,7 @@ The second link is a MOOC course that will teach you learning techniques used by
 **Are you ready to get started?**
 
 ## UFRRJ Computer Science - Curriculum
-
+  1 PERÍODO
 - [AA783 - LABORATÓRIO DE COMPUTAÇÃO I]()
 - [AA784 - MÉTODOS UNIVERSITÁRIOS]()
 - [IM406 - COMPUTACAO I]()
@@ -82,6 +82,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [IM885 -	GEOMETRIA ANALÍTICA]()
 - [TM403 -	MATEMÁTICA DISCRETA PARA COMPUTAÇÃO]()
 - [TM404 -	INTRODUÇÃO A CIÊNCIA DA COMPUTAÇÃO]()
+
+
+  2 PERÍODO
 - [AA785 -	LABORATÓRIO DE COMPUTAÇÃO II]()
 - [AA786 -	LABORATÓRIO DE CIRCUITOS DIGITAIS]()
 - [IM403 -	CALCULO I]()
@@ -89,6 +92,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [IM478 -	ÁLGEBRA LINEAR COMPUTACIONAL]()
 - [IM853 -	CIRCUITOS DIGITAIS]()
 - [IM899 -	FUNDAMENTOS DE SISTEMAS]()
+
+
+  3 PERÍODO
 - [AA787 -	LABORATÓRIO DE ESTRUTURA DE DADOS I]()
 - [AA788 -	LABORATÓRIO DE ARQUITETURA DE COMPUTADORES I]()
 - [IM404 -	CALCULO II]()
@@ -96,6 +102,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [IM854 -	LINGUAGENS FORMAIS E AUTÔMATOS]()
 - [IM859 -	PROBABILIDADE E ESTATÍSTICA PARA CIÊNCIA DA COMPUTAÇÃO]()
 - [TM405 -	ARQUITETURA DE COMPUTADORES I]()
+
+
+  4 PERÍODO
 - [AA789 -	LABORATÓRIO DE ESTRUTURA DE DADOS II]()
 - [AB781 -	LABORATÓRIO DE GRAFOS E ALGORITMOS]()
 - [IM860 -	ESTRUTURAS DE DADOS II]()
@@ -103,6 +112,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [TM407 -	FÍSICA PARA CIÊNCIA DA COMPUTAÇÃO]()
 - [TM408 -	GRAFOS E ALGORITMOS]()
 - [TM409 -	ARQUITETURA DE COMPUTADORES II]()
+
+
+  5 PERÍODO
 - [AB782 -	LABORATÓRIO DE INTELIGÊNCIA ARTIFICIAL]()
 - [AB783 -	LABORATÓRIO DE SISTEMAS OPERACIONAIS]()
 - [IM471 -	ANÁLISE DE ALGORITMOS]()
@@ -110,6 +122,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [IM868 -	SISTEMAS OPERACIONAIS]()
 - [IM870 -	INTELIGÊNCIA ARTIFICIAL]()
 - [TM410 -	MÉTODOS NUMÉRICOS]()
+
+
+  6 PERÍODO
 - [AB784 -	LABORATÓRIO DE BANCO DE DADOS E MODELAGEM]()
 - [AB785 -	LABORATÓRIO DE REDES DE COMPUTADORES]()
 - [IM473 -	BANCO DE DADOS]()
@@ -117,6 +132,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [IM861 -	COMPILADORES]()
 - [TM411 -	TOP. ESP. EM CIÊNCIA DA COMPUTAÇÃO]()
 - [TM412 -	MODELAGEM DE SISTEMAS]()
+
+
+ 7 PERÍODO
 - [AB786 -	LABORATÓRIO DE PROJETO DE SISTEMAS]()
 - [AB787 -	LABORATÓRIO DE COMPUTAÇÃO III]()
 - [IM873 -	SISTEMAS DISTRIBUÍDOS]()
@@ -124,12 +142,18 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [TM414 -	COMPUTAÇÃO III]()
 - [TM415 -	TOP. ESP. EM BANCO DE DADOS E ENG. DE SOFTWARE]()
 - [TM416 -	TOP. ESP. INTELIGÊNCIA ARTIFICIAL]()
+
+
+  8 PERÍODO
 - [AB788 -	ORIENTAÇÃO PARA TRABALHO FINAL DE CURSO I]()
 - [AC781 -	TRABALHO FINAL DE CURSO I]()
 - [IM472 -	COMPUTAÇÃO GRÁFICA]()
 - [IM866 -	ENGENHARIA DE SOFTWARE I]()
 - [TM417 -	OTIMIZAÇÃO LINEAR]()
 - [TM418 -	TOP. ESP. EM PROGRAMAÇÃO DE COMPUTADORES]()
+
+
+  9 PERÍODO
 - [AB789 -	ORIENTAÇÃO PARA TRABALHO FINAL DE CURSO II]()
 - [AC782 -	TRABALHO FINAL DE CURSO II]()
 - [IM871 -	COMPUTADORES E SOCIEDADE]()
