@@ -99,7 +99,7 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [AA788 -	LABORATÓRIO DE ARQUITETURA DE COMPUTADORES I]()
 - [IM404 -	CALCULO II](https://github.com/raulsenaferreira/computer-science#math-calculus)
 - [IM468 -	ESTRUTURA DE DADOS](https://github.com/raulsenaferreira/computer-science#algorithms)
-- [IM854 -	LINGUAGENS FORMAIS E AUTÔMATOS]()
+- [IM854 -	LINGUAGENS FORMAIS E AUTÔMATOS](https://github.com/raulsenaferreira/computer-science#theory)
 - [IM859 -	PROBABILIDADE E ESTATÍSTICA PARA CIÊNCIA DA COMPUTAÇÃO](https://github.com/raulsenaferreira/computer-science#math-probability)
 - [TM405 -	ARQUITETURA DE COMPUTADORES I](https://github.com/raulsenaferreira/computer-science#computer-architecture)
 - 4 PERÍODO
@@ -107,7 +107,7 @@ The second link is a MOOC course that will teach you learning techniques used by
 - [AA789 -	LABORATÓRIO DE ESTRUTURA DE DADOS II]()
 - [AB781 -	LABORATÓRIO DE GRAFOS E ALGORITMOS]()
 - [IM860 -	ESTRUTURAS DE DADOS II](https://github.com/raulsenaferreira/computer-science#algorithms)
-- [TM406 -	CÁLCULO APLICADO]()
+- [TM406 -	CÁLCULO APLICADO](https://github.com/raulsenaferreira/computer-science#math-mathematical-thinking)
 - [TM407 -	FÍSICA PARA CIÊNCIA DA COMPUTAÇÃO]()
 - [TM408 -	GRAFOS E ALGORITMOS]()
 - [TM409 -	ARQUITETURA DE COMPUTADORES II]()
@@ -133,10 +133,10 @@ The second link is a MOOC course that will teach you learning techniques used by
 - 
 - [AB786 -	LABORATÓRIO DE PROJETO DE SISTEMAS]()
 - [AB787 -	LABORATÓRIO DE COMPUTAÇÃO III]()
-- [IM873 -	SISTEMAS DISTRIBUÍDOS]()
+- [IM873 -	SISTEMAS DISTRIBUÍDOS](https://github.com/raulsenaferreira/computer-science#cloud-computing)
 - [TM413 -	PROJETO DE SISTEMAS](https://github.com/raulsenaferreira/computer-science#software-testing)
 - [TM414 -	COMPUTAÇÃO III]()
-- [TM415 -	TOP. ESP. EM BANCO DE DADOS E ENG. DE SOFTWARE]()
+- [TM415 -	TOP. ESP. EM BANCO DE DADOS E ENG. DE SOFTWARE](https://github.com/raulsenaferreira/computer-science#big-data)
 - [TM416 -	TOP. ESP. INTELIGÊNCIA ARTIFICIAL](https://github.com/raulsenaferreira/computer-science#machine-learning)
 - 8 PERÍODO
 - 
