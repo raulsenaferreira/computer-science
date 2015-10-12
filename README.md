@@ -73,6 +73,29 @@ The second link is a MOOC course that will teach you learning techniques used by
 
 **Are you ready to get started?**
 
+## UFRRJ Computer Science - Curriculum
+
+- [AA783 - LABORATÓRIO DE COMPUTAÇÃO I]()
+- [AA784 - MÉTODOS UNIVERSITÁRIOS]()
+- [IM406 - COMPUTACAO I]()
+- [IM429 -	ALGEBRA LINEAR I]()
+- [IM885 -	GEOMETRIA ANALÍTICA]()
+- [TM403 -	MATEMÁTICA DISCRETA PARA COMPUTAÇÃO]()
+- [TM404 -	INTRODUÇÃO A CIÊNCIA DA COMPUTAÇÃO]()
+- [AA785 -	LABORATÓRIO DE COMPUTAÇÃO II]()
+- [AA786 -	LABORATÓRIO DE CIRCUITOS DIGITAIS]()
+- [IM403 -	CALCULO I]()
+- [IM407 -	COMPUTAÇÃO II]()
+- [IM478 -	ÁLGEBRA LINEAR COMPUTACIONAL]()
+- [IM853 -	CIRCUITOS DIGITAIS]()
+- [IM899 -	FUNDAMENTOS DE SISTEMAS]()
+- [AA787 -	LABORATÓRIO DE ESTRUTURA DE DADOS I]()
+- [AA788 -	LABORATÓRIO DE ARQUITETURA DE COMPUTADORES I]()
+- [IM404 -	CALCULO II]()
+- [IM468 -	ESTRUTURA DE DADOS]()
+- [IM854 -	LINGUAGENS FORMAIS E AUTÔMATOS]()
+
+
 ## Curriculum
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
