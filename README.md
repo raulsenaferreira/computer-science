@@ -74,7 +74,9 @@ The second link is a MOOC course that will teach you learning techniques used by
 **Are you ready to get started?**
 
 ## UFRRJ Computer Science - Curriculum
-  1 PERÍODO
+
+- 1 PERÍODO
+- 
 - [AA783 - LABORATÓRIO DE COMPUTAÇÃO I]()
 - [AA784 - MÉTODOS UNIVERSITÁRIOS]()
 - [IM406 - COMPUTACAO I]()
