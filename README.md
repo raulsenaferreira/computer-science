@@ -13,7 +13,6 @@
   </a>
 </p>
 
-<<<<<<< HEAD
 ## About
 
 Adaptação do repositório original, aplicado ao curso de ciência da computação da UFRRJ com o intuito de montar uma base de conhecimento, tanto de material quanto de código, dos próprios alunos que cursam essas matérias.
@@ -64,7 +63,7 @@ Course Name| [link]()
 - [References](#references)
 
 # Summary
->>>>>>> bdbd0470db981be1358cb13211ab52bd5edc6db6
+
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
@@ -113,7 +112,7 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-<<<<<<< HEAD
+
 ## UFRRJ Computer Science - Curriculum
 
 - 1 PERÍODO
@@ -200,7 +199,6 @@ just remember that you can't purchase success!
 ## Curriculum
 =======
 **Curriculum version**: `7.2.0` (see [CHANGELOG](CHANGELOG.md))
->>>>>>> bdbd0470db981be1358cb13211ab52bd5edc6db6
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -221,7 +219,6 @@ just remember that you can't purchase success!
 
 ---
 
-<<<<<<< HEAD
 ### Introduction to Computer Science
 
 Courses | Duration | Effort
@@ -860,7 +857,7 @@ You can change the status of your board to be *public* or *private*.
 * **Contributors**: [contributors](https://github.com/open-source-society/computer-science/graphs/contributors)
 
 # References
->>>>>>> bdbd0470db981be1358cb13211ab52bd5edc6db6
+
 
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)
